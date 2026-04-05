@@ -1,0 +1,112 @@
+[
+    {
+        "pregunta": "¿Qué tipo de dato es el resultado de 10 / 3 en Python?",
+        "opciones": [
+            "a) int",
+            "b) float",
+            "c) str",
+            "d) bool"
+        ],
+        "respuesta": "b",
+        "explicacion": "La división / siempre devuelve float en Python 3"
+    },
+    {
+        "pregunta": "¿Cuál es el nombre del creador de Python?",
+        "opciones": [
+            "a) Linus Torvalds",
+            "b) Bill Gates",
+            "c) Guido van Rossum",
+            "d) Dennis Ritchie"
+        ],
+        "respuesta": "c",
+        "explicacion": "Guido van Rossum creó Python en 1991"
+    },
+    {
+        "pregunta": "¿Qué hace la función len() en Python?",
+        "opciones": [
+            "a) Suma números",
+            "b) Devuelve la longitud de un objeto",
+            "c) Convierte a mayúsculas",
+            "d) Ordena una lista"
+        ],
+        "respuesta": "b",
+        "explicacion": "len() devuelve el número de elementos de una lista, string, etc."
+    },
+    {
+        "pregunta": "¿Cuál de estos NO es un tipo de dato en Python?",
+        "opciones": [
+            "a) int",
+            "b) float",
+            "c) real",
+            "d) bool"
+        ],
+        "respuesta": "c",
+        "explicacion": "real no existe en Python, los números decimales se llaman float"
+    },
+    {
+        "pregunta": "¿Qué símbolo se usa para comentarios en Python?",
+        "opciones": [
+            "a) //",
+            "b) /*",
+            "c) #",
+            "d) --"
+        ],
+        "respuesta": "c",
+        "explicacion": "El símbolo # indica que el resto de la línea es un comentario"
+    },
+    {
+        "pregunta": "¿Qué es una lista en Python?",
+        "opciones": [
+            "a) Un número decimal",
+            "b) Una colección ordenada de elementos",
+            "c) Un tipo de ciclo",
+            "d) Una función incorporada"
+        ],
+        "respuesta": "b",
+        "explicacion": "Una lista almacena múltiples elementos en orden, ej: [1, 2, 3]"
+    },
+    {
+        "pregunta": "¿Qué librería usamos en este curso para mover archivos?",
+        "opciones": [
+            "a) numpy",
+            "b) pandas",
+            "c) shutil",
+            "d) flask"
+        ],
+        "respuesta": "c",
+        "explicacion": "shutil (shell utilities) sirve para mover, copiar y eliminar archivos"
+    },
+    {
+        "pregunta": "¿Qué hace range(5) en Python?",
+        "opciones": [
+            "a) Crea la lista [1,2,3,4,5]",
+            "b) Genera números del 0 al 4",
+            "c) Repite algo 5 veces empezando en 1",
+            "d) Devuelve el número 5"
+        ],
+        "respuesta": "b",
+        "explicacion": "range(5) genera 0,1,2,3,4 — siempre empieza en 0"
+    },
+    {
+        "pregunta": "¿Cuál es la extensión de un archivo Jupyter Notebook?",
+        "opciones": [
+            "a) .py",
+            "b) .json",
+            "c) .ipynb",
+            "d) .txt"
+        ],
+        "respuesta": "c",
+        "explicacion": ".ipynb viene de IPython Notebook, el nombre original de Jupyter"
+    },
+    {
+        "pregunta": "¿Qué significa CPU?",
+        "opciones": [
+            "a) Central Process Unit",
+            "b) Computer Personal Unit",
+            "c) Central Processing Unit",
+            "d) Core Power Unit"
+        ],
+        "respuesta": "c",
+        "explicacion": "CPU = Central Processing Unit, el cerebro de la computadora"
+    }
+]
